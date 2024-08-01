@@ -1,5 +1,6 @@
 #nohup python3 t66y_auto_register.py > app.log &
 
+
 #!/bin/bash
 git pull
 # 默认操作为重启
